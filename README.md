@@ -5,7 +5,8 @@ Afirma que cualquiera que sea la distribución común de un conjunto de variable
 
 Es decir que para n suficientemente grande y si Sn es la suma de n variables aleatorias independientes que satisfacen ciertas condiciones generales (con media y varianza finitas)
 
-<img width="245" alt="Captura de pantalla 2021-05-05 a las 18 16 03" src="https://user-images.githubusercontent.com/44638934/117174450-03969300-adce-11eb-9df9-d43ef0426181.png">
+<img width="242" alt="Captura de pantalla 2021-05-05 a las 18 32 37" src="https://user-images.githubusercontent.com/44638934/117176584-52ddc300-add0-11eb-9b03-b81c854be2a2.png">
+
 
 entonces Sn tiende hacia una distribución normal
 
