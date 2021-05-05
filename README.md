@@ -1,5 +1,6 @@
 # estadistica
 Teorema Central del Límite:
+
 Afirma que cualquiera que sea la distribución común de un conjunto de variables aleatorias, suponiendo que la media y la varianza son finitas, la suma de un número moderadamente grande de ellas será una variable aleatoria con distribución parecida a la normal.
 
 Es decir que para n suficientemente grande y si Sn es la suma de n variables aleatorias independientes que satisfacen ciertas condiciones generales (con media y varianza finitas)
