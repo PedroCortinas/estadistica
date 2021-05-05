@@ -1,19 +1,3 @@
-#Inicio
-
-x1 <- runif(10000,10,20)
-x2 <- runif(10000,10,20)
-x3 <- runif(10000,10,20)
-x4 <- runif(10000,10,20)
-x5 <- runif(10000,10,20)
-hist(x1)
-hist(x2)
-
-y=x1+x2+x3+x4+x5
-
-
-hist(y)
-
-
 # TEOREMA CENTRAL DEL LIMITE
 #definimos el tamaño de la muestra
 n=10000
